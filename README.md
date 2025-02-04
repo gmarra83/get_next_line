@@ -165,3 +165,5 @@ buffer_shift: passatogli un buffer ed un numero di bytes
     se bytes richiesti >= BUFFER_SIZE deve solo svuotare tutto il buffer*/
 void	buffer_shift(void *buffer, ssize_t bytes)
 ```
+
+# Ti è piaciuto il progetto e ti è stato utile? 🌟 : 💔
